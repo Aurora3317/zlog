@@ -20,3 +20,7 @@ Siehe MogLog Projekt,
 - Web sharing
 
 - Daten müssen für einen aussenstehenden (wie z.b. einen Trainer) einsehbar sein.
+
+Features von A.:
+
+- (Wasn't my idea help)
