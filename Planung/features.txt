@@ -1,1 +1,5 @@
-Hier kommen die features hin.
+
+
+Ziel: wenig branchen, viele Commits!
+
+Features von Luca:
