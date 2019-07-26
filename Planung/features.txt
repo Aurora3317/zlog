@@ -3,3 +3,12 @@
 Ziel: wenig branchen, viele Commits!
 
 Features von Luca:
+
+Siehe MogLog Projekt,
+
+- Eintrag was gemacht
+- Eintrag wann gemacht
+
+- Google Calendar verknüpfung
+
+- Web sharing
