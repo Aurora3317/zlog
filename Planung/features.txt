@@ -1,6 +1,8 @@
 
 
-Ziel: wenig branchen, viele Commits!
+Ziel: wenig Branchen, viele Commits!
+
+
 
 Features von Luca:
 
@@ -9,6 +11,12 @@ Siehe MogLog Projekt,
 - Eintrag was gemacht
 - Eintrag wann gemacht
 
+- Einträge mit Tags (wie hashtags)
+
+- Auswertung mit charts
+
 - Google Calendar verknüpfung
 
 - Web sharing
+
+- Daten müssen für einen aussenstehenden (wie z.b. einen Trainer) einsehbar sein.
